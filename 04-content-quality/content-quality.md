@@ -23,3 +23,13 @@
 | SEO | 10 |
 
 Maximum Score: **50**
+
+---
+
+## Continue Reading
+
+⬅ Previous Chapter
+
+➡ Next Chapter
+
+🏠 Back to README
