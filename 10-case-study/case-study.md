@@ -20,3 +20,13 @@ A global enterprise struggled with duplicate content, inconsistent metadata, low
 - Better discoverability
 - Increased content reuse
 - Stronger governance
+
+---
+
+## Continue Reading
+
+⬅ Previous Chapter
+
+➡ Next Chapter
+
+🏠 Back to README
