@@ -18,3 +18,13 @@
 - Approval Time
 - Reuse Rate
 - Update Frequency
+
+---
+
+## Continue Reading
+
+⬅ Previous Chapter
+
+➡ Next Chapter
+
+🏠 Back to README
