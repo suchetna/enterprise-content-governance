@@ -26,3 +26,13 @@ Analytics
 Content Refresh
       ↓
 Archive
+
+---
+
+## Continue Reading
+
+⬅ Previous Chapter
+
+➡ Next Chapter
+
+🏠 Back to README
