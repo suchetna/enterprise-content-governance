@@ -10,20 +10,38 @@ While my professional experience spans enterprise communications, content strate
 
 ## Repository Structure
 
-```
-01-content-governance
-02-content-lifecycle
-03-content-taxonomy-and-metadata
-04-content-quality
-05-content-analytics
-06-ai-content-operations
-07-content-stewardship-playbook
-08-executive-dashboard
-09-templates
-10-case-study
-11-enterprise-content-manifesto
-```
+### Chapter 1 — Enterprise Content Governance
+Principles, governance models, editorial responsibilities, and enterprise frameworks.
 
+### Chapter 2 — Content Lifecycle Management
+How enterprise content moves from creation to archival.
+
+### Chapter 3 — Content Taxonomy & Metadata
+Structuring enterprise content for discoverability, reuse, and governance.
+
+### Chapter 4 — Content Quality Framework
+Editorial standards, QA processes, accessibility, and quality scoring.
+
+### Chapter 5 — Content Analytics & Insights
+KPIs, SQL examples, dashboards, and content performance reporting.
+
+### Chapter 6 — Human + AI Content Operations
+Responsible AI workflows that accelerate content production while preserving editorial quality.
+
+### Chapter 7 — The Content Steward's Playbook
+Daily responsibilities, governance practices, and operational guidance.
+
+### Chapter 8 — Executive Dashboard
+Executive-level metrics and reporting for content health and business impact.
+
+### Chapter 9 — Templates & Toolkits
+Reusable templates, checklists, editorial calendars, and governance resources.
+
+### Chapter 10 — Enterprise Case Study
+A practical example showing how governance improves enterprise content ecosystems.
+
+### Chapter 11 — Enterprise Content Manifesto
+The guiding principles and philosophy behind trusted, scalable enterprise content.
 ---
 
 ## What you'll find
