@@ -11,12 +11,17 @@ While my professional experience spans enterprise communications, content strate
 ## Repository Structure
 
 ```
-01-content-governance/
-02-taxonomy/
-03-content-quality/
-04-sql/
-05-dashboard/
-06-ai-workflows/
+01-content-governance
+02-content-lifecycle
+03-content-taxonomy-and-metadata
+04-content-quality
+05-content-analytics
+06-ai-content-operations
+07-content-stewardship-playbook
+08-executive-dashboard
+09-templates
+10-case-study
+11-enterprise-content-manifesto
 ```
 
 ---
