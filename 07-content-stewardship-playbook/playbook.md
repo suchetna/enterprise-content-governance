@@ -17,3 +17,13 @@
 - Who owns it?
 - When should it be updated?
 - When should it be archived?
+
+---
+
+## Continue Reading
+
+⬅ Previous Chapter
+
+➡ Next Chapter
+
+🏠 Back to README
