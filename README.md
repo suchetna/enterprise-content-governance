@@ -1,4 +1,5 @@
-# Enterprise Content Governance
+# The Enterprise Content Steward Playbook
+Building Trusted, Scalable Enterprise Content Ecosystems
 
 ## Overview
 
@@ -6,42 +7,54 @@ This repository demonstrates my approach to enterprise content governance, stewa
 
 While my professional experience spans enterprise communications, content strategy, and editorial leadership, I built this repository to explore how modern organizations can improve content quality, discoverability, governance, and performance through structured processes and analytics.
 
+> **A practical guide to designing, governing, measuring, and scaling enterprise content ecosystems.**
+
+Designed for:
+
+- Content Strategists
+- Content Stewards
+- Enterprise Marketing Teams
+- Communications Professionals
+- Information Architects
+- Digital Experience Teams
+
 ---
 
 ## Repository Structure
 
-### Chapter 1 — Enterprise Content Governance
-Principles, governance models, editorial responsibilities, and enterprise frameworks.
+# Table of Contents
 
-### Chapter 2 — Content Lifecycle Management
-How enterprise content moves from creation to archival.
+## Part I — Foundations
 
-### Chapter 3 — Content Taxonomy & Metadata
-Structuring enterprise content for discoverability, reuse, and governance.
+Chapter 1 — Enterprise Content Governance
 
-### Chapter 4 — Content Quality Framework
-Editorial standards, QA processes, accessibility, and quality scoring.
+Chapter 2 — Content Lifecycle Management
 
-### Chapter 5 — Content Analytics & Insights
-KPIs, SQL examples, dashboards, and content performance reporting.
+Chapter 3 — Content Taxonomy & Metadata
 
-### Chapter 6 — Human + AI Content Operations
-Responsible AI workflows that accelerate content production while preserving editorial quality.
+Chapter 4 — Content Quality Framework
 
-### Chapter 7 — The Content Steward's Playbook
-Daily responsibilities, governance practices, and operational guidance.
+---
 
-### Chapter 8 — Executive Dashboard
-Executive-level metrics and reporting for content health and business impact.
+## Part II — Operations
 
-### Chapter 9 — Templates & Toolkits
-Reusable templates, checklists, editorial calendars, and governance resources.
+Chapter 5 — Content Analytics & Insights
 
-### Chapter 10 — Enterprise Case Study
-A practical example showing how governance improves enterprise content ecosystems.
+Chapter 6 — Human + AI Content Operations
 
-### Chapter 11 — Enterprise Content Manifesto
-The guiding principles and philosophy behind trusted, scalable enterprise content.
+Chapter 7 — The Content Steward's Playbook
+
+---
+
+## Part III — Leadership
+
+Chapter 8 — Executive Dashboard
+
+Chapter 9 — Templates & Toolkits
+
+Chapter 10 — Enterprise Case Study
+
+Chapter 11 — Enterprise Content Manifesto
 ---
 
 ## What you'll find
